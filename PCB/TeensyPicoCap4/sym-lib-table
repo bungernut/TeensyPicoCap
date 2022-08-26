@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "TeensyPicoCap4")(type "KiCad")(uri "${KIPRJMOD}/TeensyPicoCap4.kicad_sym")(options "")(descr ""))
+  (lib (name "Teensy")(type "KiCad")(uri "${KIPRJMOD}/teensy_library-master/teensy.kicad_sym")(options "")(descr ""))
+)
