@@ -14,3 +14,5 @@
 | R1 | 1k Ref |  |
 | R2 | 1k RTD | 223-1807-ND | 
 | U1 | PicoCap04 | Mouser: PCAP04-BQFM-24 |
+
+https://www.digikey.com/short/n2d7w2qm
